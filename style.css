@@ -1,0 +1,9 @@
+.container .background {
+    width: 100px;
+    height: 100px;
+};
+
+.logo{
+    position: absolute;
+    top: 0;
+}
